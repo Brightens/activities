@@ -1,4 +1,4 @@
-# Anagram
+# Anagram (words that can be matched based on the letters: silent, listen.).
 def get_anagram(word_1: str, word_2: str) -> str:
     anagram_word_1 = []
     anagram_word_2 = []

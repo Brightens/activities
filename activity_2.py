@@ -1,3 +1,4 @@
+# Practice on list to list pop to append, to check if how it works.
 def get_pop_item(sample_list:str) -> str:
     popped_word = []
 
